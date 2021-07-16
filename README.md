@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Whats poppin people!
+
+Bustin here, and I'm making my first repository!
